@@ -1,0 +1,16 @@
+{
+  "name": "mini-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/qiuye-zhou/mini-webpack.git",
+  "author": "qiuye <1302580865@qq.com>",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "dependencies": {
+    "@babel/core": "^7.20.5",
+    "@babel/parser": "^7.20.5",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/traverse": "^7.20.5"
+  }
+}
